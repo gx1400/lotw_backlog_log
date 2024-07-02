@@ -1,0 +1,43 @@
+name: lotw
+channels:
+  - conda-forge
+dependencies:
+  - bzip2=1.0.8=hcfcfb64_5
+  - ca-certificates=2024.6.2=h56e8100_0
+  - libexpat=2.6.2=h63175ca_0
+  - libffi=3.4.2=h8ffe710_5
+  - libsqlite=3.46.0=h2466b09_0
+  - libzlib=1.3.1=h2466b09_1
+  - openssl=3.3.1=h2466b09_1
+  - pip=24.0=pyhd8ed1ab_0
+  - python=3.11.9=h631f459_0_cpython
+  - setuptools=70.1.1=pyhd8ed1ab_0
+  - tk=8.6.13=h5226925_1
+  - ucrt=10.0.22621.0=h57928b3_0
+  - vc=14.3=h8a93ad2_20
+  - vc14_runtime=14.40.33810=ha82c5b3_20
+  - vs2015_runtime=14.40.33810=h3bf8584_20
+  - wheel=0.43.0=pyhd8ed1ab_1
+  - xz=5.2.6=h8d14728_0
+  - pip:
+      - certifi==2024.6.2
+      - charset-normalizer==3.3.2
+      - contourpy==1.2.1
+      - cycler==0.12.1
+      - fonttools==4.53.0
+      - idna==3.7
+      - kiwisolver==1.4.5
+      - lxml==5.2.2
+      - matplotlib==3.9.0
+      - numpy==2.0.0
+      - packaging==24.1
+      - pandas==2.2.2
+      - pillow==10.4.0
+      - pyparsing==3.1.2
+      - python-dateutil==2.9.0.post0
+      - pytz==2024.1
+      - requests==2.32.3
+      - schedule==1.2.2
+      - six==1.16.0
+      - tzdata==2024.1
+      - urllib3==2.2.2
