@@ -1,0 +1,7 @@
+*.png
+*.csv
+db/
+out/
+out_html/
+outold/
+plot/
